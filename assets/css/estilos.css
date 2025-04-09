@@ -1,0 +1,25 @@
+
+
+
+
+header {
+    text-align: center;
+    color: brown;
+    font-size: medium;
+}
+nav p {
+    text-align: center;
+    display: inline;
+
+}
+/* mensaje de interior */
+/* llamar a ids */
+#perfil {
+
+}
+
+/* llamar a una clase */
+.agrupacion {
+
+    
+}
